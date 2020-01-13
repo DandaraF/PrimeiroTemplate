@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(202, 202, 202);
+    color: rgb(189, 186, 186);
+}
+h5{
+    color: rgb(102, 100, 100);
+    margin-top: 10px;
+}
+
+
+hr{
+    background-color: rgba(228, 223, 223, 0.582);
+}
+p{
+    color: rgb(110, 109, 109);
+    font-size: 13px;
+}
+.fundo-topo{
+    background-color: rgb(49, 49, 49);
+}
+.fundo-conteudo{
+    background-color: rgb(218, 218, 218);
+    
+}
+.fundo-nav{
+    background-color: rgb(59, 58, 58);
+
+}
+.link-nav{
+    color: white;
+}
+.link-nav:hover{
+    color:orange;
+    text-decoration: none;
+}
+.link-right-nav{
+    color:rgb(199, 131, 5);
+}
+.link-right-nav:hover{
+    color:rgb(126, 85, 11);
+    text-decoration: none;
+}
+.conteudo{
+    background-color: rgb(143, 143, 143);
+}
+
+.rodape{
+    background-color: rgb(49, 49, 49);
+    padding: 10px 0 10px 0;
+}
